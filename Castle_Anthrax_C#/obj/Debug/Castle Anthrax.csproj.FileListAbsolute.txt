@@ -1,0 +1,6 @@
+C:\Users\Ouroboros\Documents\C#_Projects\Maze_Latest\bin\Debug\Maze.exe.config
+C:\Users\Ouroboros\Documents\C#_Projects\Maze_Latest\bin\Debug\Maze.exe
+C:\Users\Ouroboros\Documents\C#_Projects\Maze_Latest\bin\Debug\Maze.pdb
+C:\Users\Ouroboros\Documents\C#_Projects\Maze_Latest\obj\Debug\Castle Anthrax.csprojAssemblyReference.cache
+C:\Users\Ouroboros\Documents\C#_Projects\Maze_Latest\obj\Debug\Maze.exe
+C:\Users\Ouroboros\Documents\C#_Projects\Maze_Latest\obj\Debug\Maze.pdb
