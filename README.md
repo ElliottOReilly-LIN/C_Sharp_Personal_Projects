@@ -1,2 +1,6 @@
-# C-_Personal_Projects
-A general collection of C# Visual Studio projects
+# C# Personal Projects folder.
+A general collection of C# Visual Studio projects.
+
+The Castle Anthrax folder is a part complete text based adventure game in C#. 
+Built primarily to help me learn the fundemantals of OOP and data structures.
+It features a backtracking algoritm to accomplish a maze/grid setting.
